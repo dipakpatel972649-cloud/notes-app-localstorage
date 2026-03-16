@@ -6,9 +6,7 @@ This app allows users to create, edit, delete, and manage notes directly in the 
 🚀 Live Demo:-
 
 👉 Add your live project link here
-Example: https://your-live-demo-link.com
-
-
+Example:  https://dipakpatel972649-cloud.github.io/notes-app-localstorage/
 
 
 ✨ Features:-
